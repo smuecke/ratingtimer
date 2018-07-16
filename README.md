@@ -2,7 +2,7 @@
 
 A simple timer application for keeping track of the total amount of time worked on different task types with fixed completion times. Alerts you acoustically when the task time runs out. Comes with a handy target time function and a text area for notes.
 
-Built-in task types are 
+Built-in task types are EXP, SXS, RR, DB, IRR, TTR and URL.
 
 ## Screenshots
 
